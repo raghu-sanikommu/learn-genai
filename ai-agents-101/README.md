@@ -1,7 +1,11 @@
-# AI Agents - Vanilla Approach
+# AI Agents - Without Using Any Framework
 
-Run below command to run the Task using AI Agents
+1. Save `GOOGLE_API_KEY` in `.env`
+
+2. Run below commands to trigger the Task
 
 ```
+pip install -r requirements.txt
+
 python tasks.py
 ```
